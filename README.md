@@ -1,6 +1,6 @@
-# PDV com descontos
+# Ponto de Venda com Descontos
 
-## O que faz
+## O que faz?
 Recebe compras, aplica descontos e mostra o resumo do dia.
 
 ## Menu
